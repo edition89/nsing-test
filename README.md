@@ -10,11 +10,11 @@
 > 
 >composer install
 > 
->yii migrate
-> 
 >copy .env.example .env или cp .env.example .env
 > 
 >Настройте подключение к базе даных через файл .env
+> 
+>yii migrate
 
 *Переход на страницу "Управлением подписчиками" доступно после авторизации или по ссылке /subscribe/subscribes*
 
