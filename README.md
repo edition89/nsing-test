@@ -1,8 +1,8 @@
-# nsing-test
+# nsing-test #
 
 Тестовое задание для Nsign.ru
 
-##Для запуска проекты выполните команды
+## Для запуска проекты выполните команды ##
 
 >git clone https://github.com/edition89/nsing-test.git
 > 
@@ -10,15 +10,15 @@
 > 
 >composer install
 > 
+>yii migrate
+> 
 >copy .env.example .env или cp .env.example .env
 > 
 >Настройте подключение к базе даных через файл .env
-> 
->yii migrate
 
 *Переход на страницу "Управлением подписчиками" доступно после авторизации или по ссылке /subscribe/subscribes*
 
-###Текст задания:
+### Текст задания: ###
 
 Тестовая задача для разработчика на Yii2.
 
